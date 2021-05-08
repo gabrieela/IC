@@ -1,6 +1,5 @@
 # Testes - IntuitiveCare
 
-autor: Gabriela da Silva de Souza
 - Da proposta apresentada, foram escolhidos o teste 01 e o teste 03, e ambos foram implementados usando a linguagem Python, e portanto a instalação do Python é um pré-requisito para execução deste projeto.
 
 ## Teste 01
